@@ -1,0 +1,17 @@
+{
+  "name": "solutavoluptates",
+  "version": "1.0.0",
+  "description": "A modest little Typescript helper library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DeonReichert/solutavoluptates.git"
+  },
+  "main": "./dist/index.js",
+  "browser": "./src/index.ts",
+  "sideEffects": false,
+  "author": "TryciaMayer",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
